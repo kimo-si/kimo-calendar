@@ -1,0 +1,15 @@
+.build/
+.swiftpm/
+dist/
+.DS_Store
+*.xcodeproj/xcuserdata/
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+*.db
+*.log
+*.dSYM/
+.env
+.env.*
+!.env.example
